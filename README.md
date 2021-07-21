@@ -1,5 +1,7 @@
 # Basic-Image-Processing
 
+Part 1: [Basic of Python](https://colab.research.google.com/drive/1VJAXYYIPaW_bIVF4CV0VuShTjMuqlweA?usp=sharing)
+
 Part 1: Basic of Python
 
 https://colab.research.google.com/drive/1VJAXYYIPaW_bIVF4CV0VuShTjMuqlweA?usp=sharing
